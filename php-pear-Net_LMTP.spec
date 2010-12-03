@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.1
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	An implementation of the RFC2033 LMTP protocol
 License:	PHP License
 Group:		Development/PHP
