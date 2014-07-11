@@ -5,7 +5,7 @@
 Summary:	An implementation of the RFC2033 LMTP protocol
 Name:		php-pear-%{modname}
 Version:	1.0.2
-Release:	6
+Release:	7
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Net_LMTP/
