@@ -8,7 +8,7 @@ Version:	1.0.2
 Release:	10
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Net_LMTP/
+Url:		https://pear.php.net/package/Net_LMTP/
 Source0:	http://download.pear.php.net/package/Net_LMTP-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
